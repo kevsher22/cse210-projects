@@ -13,7 +13,7 @@
             "cwd": "${workspaceFolder}/sandbox/Sandbox",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry":false
         },
 
         {
